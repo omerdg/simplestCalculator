@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#ders\SimplestCalculator\bin\Debug\net7.0\SimplestCalculator.exe
+C:\Users\User\Desktop\c#ders\SimplestCalculator\bin\Debug\net7.0\SimplestCalculator.deps.json
+C:\Users\User\Desktop\c#ders\SimplestCalculator\bin\Debug\net7.0\SimplestCalculator.runtimeconfig.json
+C:\Users\User\Desktop\c#ders\SimplestCalculator\bin\Debug\net7.0\SimplestCalculator.dll
+C:\Users\User\Desktop\c#ders\SimplestCalculator\bin\Debug\net7.0\SimplestCalculator.pdb
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.dll
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\refint\SimplestCalculator.dll
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.pdb
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\SimplestCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\c#ders\SimplestCalculator\obj\Debug\net7.0\ref\SimplestCalculator.dll
